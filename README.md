@@ -1,4 +1,6 @@
-# DMD32
+# DMD32 Projet Perso Wiliam
+Projet personnel, ETML 2021
+
 A library for driving the Freetronics 512 pixel dot matrix LED display "DMD", a 32 x 16 layout using ESP32.
 
 This library is a fork of the original one [(DMD)](https://github.com/freetronics/DMD) modified to support ESP32 (currently it is only working on ESP32).
